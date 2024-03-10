@@ -1,6 +1,8 @@
 ### Hi there 👋
 💻 I’m currently working on Diffusion-based Image Editing.
-![stylized RS image](./example/park.png)  
+![stylized RS image](./oilpainting village.png) 
+![stylized RS image2](./watercolor village.png) 
+![stylized RS image3](./parkRS.png) 
 <!--
 **Sooplex/Sooplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
