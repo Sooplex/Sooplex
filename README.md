@@ -1,8 +1,13 @@
 ### Hi there 👋
 💻 I’m currently working on Diffusion-based Image Editing.
-![stylized RS image](./oilpainting village.png) 
-![stylized RS image2](./watercolor village.png) 
-![stylized RS image3](./parkRS.png) 
+![stylized RS image3](./parkSR.jpg) 
+
+<!-- ![stylized RS image](./oilpainting_village.png) 
+![stylized RS image2](./watercolor_village.png)  -->
+<figure class="half">
+    <img src="./oilpainting_village.png" width="420"/>
+    <img src="./watercolor_village.png" width="420"/>
+</figure>
 <!--
 **Sooplex/Sooplex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
